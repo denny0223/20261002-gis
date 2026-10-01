@@ -1,0 +1,14 @@
+{
+  "name": "20261002-gis",
+  "version": "0.1.0",
+  "private": true,
+  "description": "防災 GIS 資料開箱與應用",
+  "scripts": {
+    "build": "marp slide.md -o index.html",
+    "png": "marp slide.md --images png -o previews/content.png",
+    "watch": "marp slide.md --watch -o index.html"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.5.1"
+  }
+}

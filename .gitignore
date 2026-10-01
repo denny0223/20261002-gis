@@ -1,0 +1,16 @@
+# Dependencies and generated previews
+/node_modules/
+/previews/
+/slide.pdf
+*.log
+
+# Local agent state
+/.agents/
+/.codex/
+/.aws/
+
+# Editor and OS temporary files
+*.swp
+*.swo
+*~
+.DS_Store

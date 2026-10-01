@@ -1,0 +1,6 @@
+{
+  "markdown.marp.themes": [
+    "./theme/civic-atlas.css"
+  ],
+  "markdown.marp.enableHtml": true
+}
